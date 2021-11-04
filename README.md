@@ -24,6 +24,6 @@ links úteis:
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=midnight-purple)
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&color=black)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0A66C2&logo=Linkedin&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
 
 
