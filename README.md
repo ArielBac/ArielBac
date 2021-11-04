@@ -23,7 +23,7 @@ links úteis:
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBac&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBac&layout=compact&show_icons=true&theme=algolia)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0A66C2&logo=Linkedin&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
 
