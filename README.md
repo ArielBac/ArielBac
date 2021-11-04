@@ -20,13 +20,10 @@ links úteis:
 - 💬 Ask me about my journey so far
 - 😄 Pronouns: He/His
 - 📫 How to reach me: arielvieira65@gmail.com
+- See my resume by ![clicking here](https://drive.google.com/file/d/1N0H-junpXd0bP3xxOw0l2fFLVyjkmlC1/view?usp=sharing)
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=algolia)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBac&layout=compact&theme=algolia) -->
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0A66C2&logo=Linkedin&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0A66C2&logo=Resume&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
-
-
