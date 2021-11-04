@@ -20,7 +20,7 @@ links úteis:
 - 💬 Ask me about my journey so far
 - 😄 Pronouns: He/His
 - 📫 How to reach me: arielvieira65@gmail.com
-- See my resume by <a href="https://drive.google.com/file/d/1N0H-junpXd0bP3xxOw0l2fFLVyjkmlC1/view?usp=sharing" target="_blank">Clicking here</a>
+- See my resume by <a href="https://drive.google.com/file/d/1N0H-junpXd0bP3xxOw0l2fFLVyjkmlC1/view?usp=sharing" target="blank">clicking here</a>
 - See my resume by [clicking here](https://drive.google.com/file/d/1N0H-junpXd0bP3xxOw0l2fFLVyjkmlC1/view?usp=sharing)
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=algolia)
