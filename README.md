@@ -18,10 +18,10 @@ links úteis:
 - 🔭 I’m currently working as web development on GISMarxev
 - 🌱 I’m currently learning about PHP and Laravel framework
 - 💬 Ask me about my journey so far
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/His
 - 📫 How to reach me: arielvieira65@gmail.com
 
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=midnight-purple)
+![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=algolia)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0A66C2&logo=Linkedin&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
 
