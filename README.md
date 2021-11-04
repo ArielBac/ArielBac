@@ -15,7 +15,6 @@ links úteis:
 - Para o link do Linkedin: https://shields.io/
 -->
 
-- 
 - 🔭 I’m currently working as web development on GISMarxev
 - 🌱 I’m currently learning about PHP and Laravel framework
 - 💬 Ask me about my journey so far
