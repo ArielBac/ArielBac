@@ -15,14 +15,15 @@ links úteis:
 - Para o link do Linkedin: https://shields.io/
 -->
 
+- 
 - 🔭 I’m currently working as web development on GISMarxev
 - 🌱 I’m currently learning about PHP and Laravel framework
 - 💬 Ask me about my journey so far
 - 😄 Pronouns: Him/His
-- - 📫 How to reach me: arielvieira65@gmail.com
+- 📫 How to reach me: arielvieira65@gmail.com
 
 ![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielBac&show_icons=true&theme=midnight-purple)
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&color=white)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&color=black)](https://www.linkedin.com/in/ariel-vieira-28aa51135)
 
 
