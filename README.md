@@ -15,8 +15,8 @@ links úteis:
 - Para o link do Linkedin: https://shields.io/
 -->
 
-- 🔭 I’m currently working as web developer on GISMarxev
-- 🌱 I’m currently learning about PHP and Laravel framework
+- 🔭 I’m currently working as trainee web developer on Grupo FCamara
+- 🌱 I’m currently learning about PHP/Laravel framework and .NET
 - 💬 Ask me about my journey so far
 - 📫 How to reach me: arielvieira65@gmail.com
 <!-- - See my resume by [clicking here](https://drive.google.com/file/d/1N0H-junpXd0bP3xxOw0l2fFLVyjkmlC1/view?usp=sharing) -->
